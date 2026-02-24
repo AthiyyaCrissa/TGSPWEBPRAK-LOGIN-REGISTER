@@ -241,6 +241,10 @@ body{
 
 .btn-submit:hover{
     gap: 15px;
+    background-color: #124fde;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
 }
 
 .btn-submit i{
